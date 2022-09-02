@@ -32,7 +32,11 @@ https://docs.openttd.org/source/d0/dba/structVehicle.html#a822f77b9cfb66bd405ed0
   * visualise internal mechanisms as state machine diagram
   * performance notes
   * discuss portable implementation in haxe lang
-  
+
+# Tools
+
+nice visualisation tool? https://app.code2flow.com/
+
 # Resources
 
   * https://github.com/dbohdan/compilers-targeting-c
