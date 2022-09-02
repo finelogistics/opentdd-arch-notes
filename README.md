@@ -42,3 +42,4 @@ nice visualisation tool? https://app.code2flow.com/
   * https://github.com/dbohdan/compilers-targeting-c
   * https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/
   * http://www.swig.org/ or https://sourceware.org/libffi/
+  * https://www2.imm.dtu.dk/pubdb/edoc/imm6091.pdf in-game ai
