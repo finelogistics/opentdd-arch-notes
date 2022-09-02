@@ -10,7 +10,7 @@ Includes cars, trains, planes and ships.
 
 https://openttd.org
 
-Source code has more than 27k commits and the project origins.
+Source code has more than 27k commits and the project origins from the ingenius idea of Chris Sawyer's Transport Tycoon Deluxe.
 
 # Developers
 
